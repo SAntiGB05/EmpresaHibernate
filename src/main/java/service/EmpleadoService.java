@@ -1,6 +1,6 @@
 package service;
-import models.Empleado;
 
+import models.Empleado;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
